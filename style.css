@@ -28,7 +28,11 @@ header a:hover{
 }
 main {
 	height: 100vh;
+<<<<<<< HEAD
+	background-image: url(nandha-kumar-pj-0lNT_Yu7Rhs-unsplash.jpg);
+=======
 	background-image: url("vishnu-prasad-OmAoJiOihR8-unsplash.jpg")
+>>>>>>> df7dd65f73738800cfb726a9c7efaa9056a0a04c
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding-left: 7em;
